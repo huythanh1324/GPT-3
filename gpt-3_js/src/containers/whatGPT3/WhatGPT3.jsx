@@ -6,3 +6,4 @@ export const WhatGPT3 = () => {
     <div>WhatGPT3</div>
   )
 }
+export default WhatGPT3
