@@ -1,5 +1,6 @@
 import React from 'react'
 import './whatgpt3.css'
+import Feature from '../feature/Feature.jsx'
 
 export const WhatGPT3 = () => {
   return (
@@ -8,7 +9,7 @@ export const WhatGPT3 = () => {
         <Feature />
       </div>
       <div className="gpt3__whatgpt3-heading">
-        <h1 className="gradient-text">The possibilities are beyond your imagination</h1>
+        <h1 className="gradient__text">The possibilities are beyond your imagination</h1>
         <p>Explore The Library</p>
       </div>
       <div className="gpt3__whatgpt3-container">
