@@ -5,7 +5,7 @@ import ai from '../../assets/ai.png'
 
 const Header = () => {
   return (
-    <div className="gpt3__header section__padding">
+    <div className="gpt3__header section__padding" id="home">
       <div className="gpt3__header-content">
         <h1 className="gradient__text">Let's Bulid Something amazing with GPT-3 Open AI</h1>
         <p>Yet bed any traveling assistance indulgence unplesaing.Not thoughts all exercise blessing.Induigence way everything joy alteration boisterous the attachment. Party we years to order allow asked of.</p>
